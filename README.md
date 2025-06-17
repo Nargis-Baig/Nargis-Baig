@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Nargis – Aspiring AppSec/DevSecOps Engineer
 
-<!--
-**Nargis-Baig/Nargis-Baig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Former Java Developer (5+ years, investment banking)  
+🛡️ Pivoting into Cybersecurity – Application Security & DevSecOps  
+🤖 Exploring the power of AI in securing modern applications  
+💼 Actively preparing for senior cybersecurity roles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 My 60-Day Cybersecurity Journey
+I'm currently on a focused, 60-day mission to:
+- Master Application Security and DevSecOps tools
+- Apply secure coding practices in Java (Spring Boot)
+- Build hands-on projects using CI/CD, SAST, DAST, and container security
+- Explore AI tools like Microsoft Security Copilot
+- Document everything in this [GitHub repo](https://github.com/Nargis-Baig/AppSec-Journey-Nargis)
+
+---
+
+## 🛠️ Tech Stack
+
+```yaml
+Languages:   Java, Bash (basics)
+Frameworks:  Spring Boot, OWASP Top 10
+Tools:       GitHub Actions, SonarQube, Snyk, Trivy, Docker
+Security:    DevSecOps, Secure Coding, OWASP, AI in Security
